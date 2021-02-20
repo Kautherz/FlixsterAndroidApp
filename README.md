@@ -16,6 +16,8 @@
 ### App Walkthough GIF
 <img src="http://g.recordit.co/HmoSNMMl8E.gif" width=250><br>
 
+<img src="http://g.recordit.co/QrSfn98E5w.gif" width=250><br>
+
 ### Notes
 There were small issues that were a result of my inexperience using Android Studio, but no major difficulties.
 
