@@ -27,9 +27,6 @@
 ### App Walkthough GIF
 <img src="http://g.recordit.co/QrSfn98E5w.gif" width=250><br>
 
-### Notes
-There were small issues that were a result of my inexperience using Android Studio, but no major difficulties.
-
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
